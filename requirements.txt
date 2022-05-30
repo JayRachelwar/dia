@@ -5,3 +5,4 @@ Werkzeug==2.0
 Jinja2==3.0
 itsdangerous==2.0
 MarkupSafe==2.0.0rc2
+sklearn==0.0
